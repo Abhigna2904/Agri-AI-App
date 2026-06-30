@@ -44,9 +44,7 @@ agri-ai-app/
 
 ## 📸 App Screenshot
 
-```
 ![App Screenshot](Image.jpeg)
-```
 
 ---
 
